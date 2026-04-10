@@ -1,0 +1,22 @@
+# Art Nantes Contemporain — robots.txt
+User-agent: *
+Allow: /
+
+# Autoriser explicitement les crawlers IA
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap
+Sitemap: https://artNantes/art-contemporain-nantes/sitemap.xml
