@@ -19,4 +19,4 @@ User-agent: PerplexityBot
 Allow: /
 
 # Sitemap
-Sitemap: https://ton-compte.github.io/art-contemporain-nantes/sitemap.xml
+Sitemap: https://artNantes/art-contemporain-nantes/sitemap.xml
